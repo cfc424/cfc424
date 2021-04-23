@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cfc424&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![MC's time stats](https://github-readme-stats.vercel.app/api/wakatime?shareid=cfc424/14fb4cae-5ab6-41cc-862a-6126b01bdb5a)](https://github.com/anuraghazra/github-readme-stats)
-
-
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
