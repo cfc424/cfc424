@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![MC's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cfc424&count_private=true&show_icons=true&theme=vision-friendly-dark)
+![MC's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cfc424&show_icons=true&theme=vision-friendly-dark)
 
 <!--START_SECTION:waka-->
 ```text
