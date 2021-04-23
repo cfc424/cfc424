@@ -1,10 +1,9 @@
 <!-- ### 👋 Hi , I'm MC-->
 
-- 🌱 I'm currently  learning and working on plant bioinformatics
-- 🏃 I'm using computer skills: Python, R and Shell
-- 💡 I like watching movies, and runing sometimes
+- 🌱 Now,  Learning and Working on Plant Bioinformatics
+- 🏃 Computer skills: Python, R and Shell
+- 💡 Watching movies, Running and Travelling
 -->
-
 
 <details>
 <summary>GitHub statistics</summary>
@@ -27,4 +26,3 @@
 No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
-
