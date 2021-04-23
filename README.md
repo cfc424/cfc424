@@ -1,22 +1,26 @@
-<!-- ### Hi there 👋 -->
+<!-- ### 👋 Hi , I'm MC-->
 
-<!--
-**cfc424/cfc424** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🌱 I'm currently  learning and working on plant bioinformatics
+- 🏃 I'm using computer skills: Python, R and Shell
+- 💡 I like watching movies, and runing sometimes
 -->
-![MC's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cfc424&show_icons=true&theme=vision-friendly-dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cfc424&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<details>
+<summary>GitHub statistics</summary>
+
+<br/>
+
+> Less info
+<a href="https://github.com/cfc424/cfc424">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=cfc424&show_icons=true&theme=vision-friendly-dark" />
+</a>
+<br/>
+---
+<a href="https://github.com/cfc424/cfc424">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cfc424&layout=compact" />
+</a>
+<br/>
 
 <!--START_SECTION:waka-->
 ```text
