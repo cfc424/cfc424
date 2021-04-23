@@ -6,7 +6,7 @@
 
 
 <details>
-<summary>GitHub statistics</summary>
+<summary>GitHub Stats</summary>
 
 <br/>
 
