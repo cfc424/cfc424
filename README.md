@@ -21,8 +21,4 @@ Here are some ideas to get you started:
 [![MC's time stats](https://github-readme-stats.vercel.app/api/wakatime?shareid=cfc424/14fb4cae-5ab6-41cc-862a-6126b01bdb5a)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
-<!--END_SECTION:waka-->
+
