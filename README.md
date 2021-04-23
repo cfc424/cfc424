@@ -18,4 +18,7 @@ Here are some ideas to get you started:
 
 **Coding Time**
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
