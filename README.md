@@ -1,7 +1,7 @@
 <!-- ### 👋 Hi , I'm MC-->
  👋 **Hi , I'm MC**
-- 🌱 Now,  Learning and Working on Plant Bioinformatics
-- 🏃 Computer Skills: Python, R and Shell
+- 🌱 Plant Bioinformatics
+- 🏃 Python, R and Shell
 - 💡 Wandering
 
 
