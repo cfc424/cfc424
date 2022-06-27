@@ -2,7 +2,7 @@
  👋 **Hi , I'm MC**
 - 🌱 Now,  Learning and Working on Plant Bioinformatics
 - 🏃 Computer Skills: Python, R and Shell
-- 💡 Watching Movies, Reading and Running
+- 💡 Wandering
 
 
 <details>
