@@ -2,7 +2,7 @@
  👋 **Hi , I'm MC**
 - 🌱 Plant Bioinformatics
 - 🏃 Python, R and Shell
-- 💡 Wandering
+- 💡 ...
 
 
 <details>
